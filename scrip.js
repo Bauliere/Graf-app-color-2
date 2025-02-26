@@ -55,6 +55,9 @@ function hexToRgb(hex) {
     }
     return { r, g, b };
 }
+// Este es un comentario de prueba
+
+
 
 redSlider.addEventListener('input', updateColor);
 greenSlider.addEventListener('input', updateColor);
